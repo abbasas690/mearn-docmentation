@@ -404,4 +404,3 @@ studentSchema.plugin(myPlugin);
 | Populate       | `Model.populate()`                   |
 
 ---
-{% include_relative mongoose_detailed_notes.md %}

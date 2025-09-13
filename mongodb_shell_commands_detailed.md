@@ -355,4 +355,3 @@ db.students.updateOne(
 
 ---
 
-{% include_relative mongodb_shell_commands_detailed.md %}
