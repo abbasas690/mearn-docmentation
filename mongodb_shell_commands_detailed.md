@@ -1,5 +1,7 @@
-# 📚 MongoDB Shell Commands – Detailed Notes
-
+---
+layout: default
+title: MongoDB Shell Commands
+---
 MongoDB **shell** (`mongosh`) is an interactive JavaScript interface to MongoDB.  
 You can use it to **connect, query, and manage databases** directly.
 
@@ -352,3 +354,5 @@ db.students.updateOne(
 | Drop Coll.     | `db.users.drop()` |
 
 ---
+
+{% include_relative mongodb_shell_commands_detailed.md %}

@@ -1,0 +1,49 @@
+body {
+    font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    max-width: 900px;
+    margin: auto;
+    padding: 1.5rem;
+    background: #f8f9fa;
+    color: #333;
+    line-height: 1.8;
+}
+
+.site-header {
+    text-align: center;
+    border-bottom: 2px solid #eaeaea;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+}
+
+.site-header h1 a {
+    text-decoration: none;
+    color: #2c3e50;
+}
+
+.site-header nav a {
+    margin: 0 12px;
+    text-decoration: none;
+    color: #3498db;
+    font-weight: 500;
+}
+
+.site-header nav a:hover {
+    text-decoration: underline;
+}
+
+.content h1,
+.content h2,
+.content h3 {
+    color: #2c3e50;
+}
+
+a {
+    color: #3498db;
+}
+
+.site-footer {
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 0.9em;
+    color: #777;
+}

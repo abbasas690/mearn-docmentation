@@ -1,4 +1,7 @@
-# 🟢 Mongoose – Detailed Notes
+---
+layout: default
+title: Mongoose Notes
+---
 
 Mongoose is an **Object Data Modeling (ODM) library for MongoDB and Node.js**.  
 It provides a **schema-based solution** to model application data, offering **validation**, **type casting**, **query building**, and **middleware**.
@@ -401,3 +404,4 @@ studentSchema.plugin(myPlugin);
 | Populate       | `Model.populate()`                   |
 
 ---
+{% include_relative mongoose_detailed_notes.md %}

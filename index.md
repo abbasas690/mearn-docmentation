@@ -1,4 +1,9 @@
-# 📚 MEAN Stack Complete Guide
+---
+layout: default
+title: MEAN Stack Guide
+---
+
+
 
 This document provides a **complete, step-by-step guide** to understanding and building applications with the **MEAN Stack**:  
 **MongoDB**, **Express.js**, **Angular**, and **Node.js**.
@@ -40,3 +45,4 @@ Use Cases:
 - [mongo shell commands](./mongodb_shell_commands_detailed.md)
 - [mongoose](./mongoose_detailed_notes.md)
 
+{% include_relative index.md %}
