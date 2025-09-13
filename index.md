@@ -45,4 +45,4 @@ Use Cases:
 - [mongo shell commands](./mongodb_shell_commands_detailed.md)
 - [mongoose](./mongoose_detailed_notes.md)
 
-{% include_relative index.md %}
+{% include_relative Readme.md %}
