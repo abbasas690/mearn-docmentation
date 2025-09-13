@@ -35,7 +35,8 @@ Use Cases:
 
 ---
 
-### 🛠️ Basic Mongo Shell Commands
+### 🛠️ Basic Mongo and mongoose
 
-[goto](./mongodb_shell_commands_detailed.md)
+- [mongo shell commands](./mongodb_shell_commands_detailed.md)
+- [mongoose](./mongoose_detailed_notes.md)
 
